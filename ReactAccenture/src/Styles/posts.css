@@ -1,0 +1,9 @@
+img {
+    width: 70vh;
+    height: 40vh;
+    border-radius: 5px;
+}
+
+.preview-text{
+    position: absolute;
+}
