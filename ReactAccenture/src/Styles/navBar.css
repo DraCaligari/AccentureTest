@@ -1,0 +1,43 @@
+.navbar {
+    flex-direction: column;
+}
+.top-element {
+    color: #ffa500;
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+
+.brackets {
+    font-size: 40px;
+    color: orange;
+    align-items: center;
+    height: 40px;
+}
+
+.title {
+    display: relative;
+}
+
+.title-text {
+    font-weight: bolder;
+}
+
+.btn-text {
+    color: black;
+}
+
+.btn-new {
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.btn-circle {
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: orange;
+    border: 0;
+    box-shadow: 1px 1px gray;
+}
